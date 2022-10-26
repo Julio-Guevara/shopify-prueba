@@ -260,6 +260,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "5342e3da-1a34-44f6-97e3-058d7093cfd6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14681332416647__5342e3da-1a34-44f6-97e3-058d7093cfd6-16668085095d18e080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--14681332416647__5342e3da-1a34-44f6-97e3-058d7093cfd6-16668085095d18e080-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14681332416647__5342e3da-1a34-44f6-97e3-058d7093cfd6-16668085095d18e080-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14681332416647__5342e3da-1a34-44f6-97e3-058d7093cfd6-16668085095d18e080-0",
+        "template--14681332416647__5342e3da-1a34-44f6-97e3-058d7093cfd6-16668085095d18e080-1",
+        "template--14681332416647__5342e3da-1a34-44f6-97e3-058d7093cfd6-16668085095d18e080-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -269,6 +313,7 @@
     "collage",
     "video",
     "multicolumn",
-    "6dceace6-0370-44df-a3af-38a3df13709e"
+    "6dceace6-0370-44df-a3af-38a3df13709e",
+    "5342e3da-1a34-44f6-97e3-058d7093cfd6"
   ]
 }
